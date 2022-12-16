@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Arrays",
+			"path": "../../Arrays"
+		},
+		{
+			"name": "Desktop",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Arrays"
+	}
+}
